@@ -1,1 +1,1 @@
-init readme
+https://elenabukhovets.github.io/rsschool-cv/cv
