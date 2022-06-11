@@ -19,3 +19,6 @@ Elena(@elenabukhovets)
 Engineering and economic, Economics and organization of production
 
 English - B1
+
+**Courses**
+[ArtofBA](https://www.artofba.com/), Business analysis Basics Online.
