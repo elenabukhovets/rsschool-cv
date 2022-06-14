@@ -1,5 +1,9 @@
-.block{
+.first{
     text-align: center;
+    border: 1px solid olive;
+}
+.block{
+    text-align: left;
     border: 1px solid olive;
     
 }
