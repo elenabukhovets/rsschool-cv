@@ -1,0 +1,13 @@
+.block{
+    text-align: center;
+    border: 1px solid olive;
+    
+}
+.highlight{
+    width: 580px;
+    margin: 0 auto;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+}
