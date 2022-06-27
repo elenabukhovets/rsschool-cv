@@ -1,0 +1,60 @@
+.highlight {
+    width: 1440px;
+    margin: 8px;
+    justify-content: space-around;
+    margin: auto;
+    background: url(garrett-parker-DlkF4-dbCOU-unsplash\ 1.png) no-repeat;
+}
+.first {
+    flex-direction: row;
+    height: 90px;
+    justify-content:space-around; 
+    border: 20px;
+    display: flex;
+    align-items: center;
+    background: rgba(242, 120, 92, 0.7);
+box-shadow: 0px 4px 4px rgba(13, 96, 111, 0.5);
+}
+.logo{
+    width: 216px;
+    height: 31px;
+    
+}
+.travel{
+    font-family: 'Magra';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 39px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.links{
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 42px;
+width: 527px;
+height: 21px;
+color: #FFFFFF;
+text-decoration: none;
+}
+.login{
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px;
+gap: 10px;
+width: 103px;
+height: 41px;
+left: 1217px;
+top: 25px;
+background: #0D606F;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 2px 3px rgba(13, 96, 111, 0.16);
+border-radius: 10px;
+color: #FFFFFF
+}
+.main{
+    height: 1600px;
+}
